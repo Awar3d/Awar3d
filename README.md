@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Привет! Меня зовут Алим
+🚀 Frontend-разработчик | 🎨 Веб-дизайнер | 🔐 Изучаю кибербезопасность  
 
-<!--
-**Awar3d/Awar3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **Навыки:**  
+- ⚡ HTML, CSS, SASS, JavaScript, TypeScript  
+- 🎨 Figma, Photoshop  
+- ⚙ Gulp, Webpack  
+- 🏗 SQLite3, Python
 
-Here are some ideas to get you started:
+📌 **Чем я занимаюсь:**  
+- Разрабатываю адаптивные сайты для бизнеса  
+- Изучаю **Vue.js** и **React**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Связаться со мной:**  
+- ✉ Email: alimdaurenbek01@gmail.com  
+- 📱 Telegram: https://t.me/Wu_Kongs_staff
+- 🌐 Портфолио: https://github.com/Awar3d/Works
+
+---
+
+### 📌 **Лучшие проекты**  
+💎 [Проект 1](https://github.com/ТВОЙ_НИК/Проект1) - Описание проекта  
+💎 [Проект 2](https://github.com/ТВОЙ_НИК/Проект2) - Описание проекта  
+💎 [Проект 3](https://github.com/ТВОЙ_НИК/Проект3) - Описание проекта  
