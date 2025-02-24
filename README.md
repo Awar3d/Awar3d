@@ -3,7 +3,7 @@
 
 💡 **Навыки:**  
 - ⚡ HTML, CSS, SASS, JavaScript, TypeScript  
-- 🎨 Figma, Photoshop  
+- 🎨 Figma
 - ⚙ Gulp, Webpack  
 - 🏗 SQLite3, Python
 
