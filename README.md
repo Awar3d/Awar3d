@@ -2,8 +2,8 @@
 🚀 Frontend-разработчик
 
 💡 **Навыки:**  
-- ⚡ HTML, CSS, SASS, JavaScript, TypeScript, Vue, React
-- 🎨 Figma
+- ⚡ HTML, CSS, Js, Pug, Sass, Ts, React.js, Vue.js, Next.js
+- 🎨 Figma, Photoshop
 - ⚙ Gulp, Webpack, vite  
 - 🏗 SQLite3, Python
 
